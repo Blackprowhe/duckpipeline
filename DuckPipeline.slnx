@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DuckPipeline.Tests/DuckPipeline.Tests.csproj" />
+  <Project Path="test/test.csproj" />
+</Solution>
